@@ -1,0 +1,67 @@
+body{
+    margin: 20px 30px 20px;
+}
+h2{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.zig{
+    text-align: center;
+}
+.zig
+
+.name{
+    text-align: center;
+
+    display: flex;
+}
+.name>p{
+    margin-top: 0 !important;
+    text-align: center;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 300;
+    font-size: 20px;
+    
+}
+.education>p{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.ar{
+    display: flex;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.ar>p{
+    margin-bottom:0!important;
+    margin-top:0!important;
+    padding: 0 !important;
+    margin-right: 800px;
+}
+ul{
+    margin-top: 0 !important;
+    padding: 10 !important; 
+}
+.experience>p{
+    margin: 0 !important;
+    padding: 0 !important; 
+}
+.projects>p{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    background-color: white;
+}
+aside>p{
+    margin: 0 !important;
+    padding: 0 !important 
+}
